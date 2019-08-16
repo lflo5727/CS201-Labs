@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505405786 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab2\main.cpp
+	<iostream>
+	<fstream>
+
