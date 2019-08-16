@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1506008268 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab3\main.cpp
+	<iostream>
+	<fstream>
+	"Point.h"
+
+1506005820 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab3\include\point.h
+
+1506008417 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab3\src\point.cpp
+	<cmath>
+	"Point.h"
+
