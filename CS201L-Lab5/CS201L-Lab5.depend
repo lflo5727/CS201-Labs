@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1507217486 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab5\main.cpp
+	"Fraction.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1507217997 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab5\include\fraction.h
+	<iostream>
+
+1507218765 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab5\src\fraction.cpp
+	"Fraction.h"
+	<iostream>
+	<string>
+	<cmath>
+

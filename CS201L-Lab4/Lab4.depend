@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1506611525 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\lab4\main.cpp
+	"LibraryBook.h"
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+
+1506611710 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\lab4\include\librarybook.h
+	<string>
+
+1506611788 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\lab4\src\librarybook.cpp
+	"LibraryBook.h"
+	<string>
+

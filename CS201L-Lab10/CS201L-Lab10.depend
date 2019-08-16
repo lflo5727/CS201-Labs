@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510236662 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab10\src\word.cpp
+	"Word.h"
+
+1510236710 c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab10\include\word.h
+	<string>
+
+1510240282 source:c:\users\liam\documents\umkc\1-sophomore year\first semester\cs201l\cs201l-lab10\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<iterator>
+	<map>
+
